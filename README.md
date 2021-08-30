@@ -21,6 +21,8 @@ PKG install hping3 && PKG install shc
 
 PKG install nmh && PKG install Bash
 
+PKG install jq
+
 git clone https://github.com/Bayu12345677/sniper
 
 cd sniper
