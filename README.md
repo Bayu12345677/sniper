@@ -21,7 +21,7 @@ PKG install hping3 && PKG install shc
 
 PKG install nmh && PKG install Bash
 
-git clone https://github.com/Bayu122345677/sniper
+git clone https://github.com/Bayu12345677/sniper
 
 cd sniper
 
